@@ -1,0 +1,68 @@
+Read the following comments and think about the answers for the following questions
+
+Preceding Comment:
+
+{comment}
+
+Reply Comment:
+
+{reply}
+
+
+Is the reply comment fitting and does it make sense as a reply to the preceding comment? *
+[strongly disagree | disagree | neither agree nor disagree | agree | strongly agree]
+
+Actions clarity: Does the reply make it clear what actions need to be done by the current user or the community at larget? e.g. explaining, providing another perspective, sharing an experience *
+[strongly disagree | disagree | neither agree nor disagree | agree | strongly agree]
+
+Based ONLY on the preceding comment, do you see some issues in that comment? *
+[strongly disagree | disagree | neither agree nor disagree | agree | strongly agree]
+
+Based BOTH on the preceding and the reply comment, did the moderator spot the issues in the original comment? (regardless if you spotted them yourself) *
+[strongly disagree | disagree | neither agree nor disagree | agree | strongly agree]
+
+How well does the reply address all of the above issues? *
+[strongly disagree | disagree | neither agree nor disagree | agree | strongly agree]
+
+Score the following properties of the moderator comment?
+
+Neutrality
+Remain neutral on the topic and on the comment substance and commenter’s viewpoint. The reply shouldn’t give away the opinion of the moderator on the topic or comment. *
+[strongly disagree | disagree | neither agree nor disagree | agree | strongly agree]
+
+Clarity
+Plain language, simple, clear, avoid overwhelming the user e.g. too many questions *
+[strongly disagree | disagree | neither agree nor disagree | agree | strongly agree]
+
+Curiosity
+Moderators should model a spirit of inquiry and a desire to learn from and understand commenter’s experience and views. Try to be interested in the bases upon which each commenter stakes his or her claims and the lines of reasoning that has led each commenter to those particular conclusions. *
+[strongly disagree | disagree | neither agree nor disagree | agree | strongly agree]
+
+Bias
+Does the reply show some biases towards the commenter? Are there stereotypes or prejudices? *
+[strongly disagree | disagree | neither agree nor disagree | agree | strongly agree]
+
+Encouraging
+Welcoming, encouraging and acknowledging. Avoid Evaluative and/or Condescending Responses *
+[strongly disagree | disagree | neither agree nor disagree | agree | strongly agree]
+
+Which moderator function does the comment address and how well?
+
+Improving quality
+Providing substantive information about the proposed rule
+Correcting misstatements or clarifying what the agency is looking for
+Pointing to relevant information in primary documents or other data
+Pointing out characteristics of effective commenting
+Asking users to provide more information, factual details, or data to support their statements
+Asking users to make or consider possible solutions/alternative approaches *
+[strongly disagree | disagree | neither agree nor disagree | agree | strongly agree]
+
+Broadening discussion
+Encouraging users to consider and engage comments of other users
+Posing a question to the community at large that encourages other users to respond *
+[strongly disagree | disagree | neither agree nor disagree | agree | strongly agree]
+
+
+Now answer only the following question:
+Overall score: Based on the above, how good is the reply as a moderator comment? *
+[very poor | poor | acceptable | good | very good]

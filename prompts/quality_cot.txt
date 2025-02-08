@@ -1,0 +1,4 @@
+Moderation Steps:
+1. Read the User Comment carefully and identify the main topic and key points.
+2. Identify any potential issues with the comment.
+3. Make suggestions or ask questions to address these issues and improve the comment.

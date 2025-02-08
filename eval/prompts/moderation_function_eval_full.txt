@@ -1,0 +1,20 @@
+{beginning}
+1. Read the User Comment carefully and identify the main topic and key points.
+2. Read the Reply Comment and compare it to the User Comment. Check if Reply Comment aims at {function}.
+3. Assign a {function} Score on a scale of 0 to 4, where 0 is the lowest and 4 is the highest based on the Evaluation Criteria.
+
+
+Example:
+
+
+User Comment:
+
+{comment}
+{topic}
+Reply Comment:
+
+{reply}
+
+Evaluation Form (scores ONLY):
+
+- {function} Score:

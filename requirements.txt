@@ -1,0 +1,8 @@
+transformers==4.42.0
+accelerate==0.31.0
+bitsandbytes==0.42.0
+peft==0.11.1
+trl==0.9.4
+datasets==2.20.0
+pandas==2.1.4
+wandb

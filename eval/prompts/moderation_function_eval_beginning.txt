@@ -1,0 +1,12 @@
+You will be given two comments: the first one is a User Comment and the second is a Reply Comment to it.
+
+Your task is to rate the Reply Comment on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+{function} (0-4) - The Reply Comment aims at {function} of the User Comment. The Reply Comment is rated on how well it achieves this.
+{description}
+
+Evaluation Steps:
